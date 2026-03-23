@@ -1,2 +1,3 @@
 Bonjour, je m’appelle joshu0111
 , et Bnameck
+test de conflit A
