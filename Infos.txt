@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 Bonjour, je m’appelle joshu0111
 , et Bnameck
 test de conflit A
-=======
 Bonjour, je m’appelle jean val jean 
->>>>>>> da2c6b9 (Modification du fichier Infos.txt)
+Bonjour, je m’appelle jean val jean 
+
